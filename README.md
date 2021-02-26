@@ -4,8 +4,8 @@
   - Spring Data Jpa
   - Lombok
   - MySQL
-  -Spring Security
-  -Spring Mail
+  - Spring Security
+  - Spring Mail
   
   ### Port
 ```
